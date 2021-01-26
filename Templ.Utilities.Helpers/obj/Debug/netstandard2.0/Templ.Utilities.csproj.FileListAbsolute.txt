@@ -1,0 +1,9 @@
+C:\Users\Art\source\repos\Templ.Utilities\Templ.Utilities.Helpers\bin\Debug\netstandard2.0\Templ.Utilities.deps.json
+C:\Users\Art\source\repos\Templ.Utilities\Templ.Utilities.Helpers\bin\Debug\netstandard2.0\Templ.Utilities.dll
+C:\Users\Art\source\repos\Templ.Utilities\Templ.Utilities.Helpers\bin\Debug\netstandard2.0\Templ.Utilities.pdb
+C:\Users\Art\source\repos\Templ.Utilities\Templ.Utilities.Helpers\obj\Debug\netstandard2.0\Templ.Utilities.csprojAssemblyReference.cache
+C:\Users\Art\source\repos\Templ.Utilities\Templ.Utilities.Helpers\obj\Debug\netstandard2.0\Templ.Utilities.AssemblyInfoInputs.cache
+C:\Users\Art\source\repos\Templ.Utilities\Templ.Utilities.Helpers\obj\Debug\netstandard2.0\Templ.Utilities.AssemblyInfo.cs
+C:\Users\Art\source\repos\Templ.Utilities\Templ.Utilities.Helpers\obj\Debug\netstandard2.0\Templ.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Art\source\repos\Templ.Utilities\Templ.Utilities.Helpers\obj\Debug\netstandard2.0\Templ.Utilities.dll
+C:\Users\Art\source\repos\Templ.Utilities\Templ.Utilities.Helpers\obj\Debug\netstandard2.0\Templ.Utilities.pdb
