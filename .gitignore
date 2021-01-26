@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/Templ.Utilities.Helpers/obj/Debug/netstandard2.0/Templ.Utilities.csproj.CoreCompileInputs.cache
+/Templ.Utilities.Helpers/obj/Debug/netstandard2.0/Templ.Utilities.csproj.FileListAbsolute.txt
+/Templ.Utilities.Helpers/bin/Debug/netstandard2.0/Templ.Utilities.deps.json
+/Templ.Utilities.Helpers/bin/Debug/netstandard2.0/Templ.Utilities.dll
+/Templ.Utilities.Helpers/bin/Debug/netstandard2.0/Templ.Utilities.pdb
+/Templ.Utilities.Helpers/Templ.Utilities.sln
+/Templ.Utilities.Helpers/obj/Debug/netstandard2.0/Templ.Utilities.pdb
+/Templ.Utilities.Helpers/obj/Debug/netstandard2.0/Templ.Utilities.dll
