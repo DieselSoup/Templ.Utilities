@@ -2,7 +2,6 @@
 using Plugin.Permissions.Abstractions;
 using System;
 using System.Collections.Generic;
-using System.Text;
 
 
 namespace Templ.Utilities.Managers
