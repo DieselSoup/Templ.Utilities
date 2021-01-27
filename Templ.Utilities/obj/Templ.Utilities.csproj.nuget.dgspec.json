@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Art\\source\\repos\\Templ.Utilities\\Templ.Utilities.Helpers\\Templ.Utilities.csproj": {}
+    "C:\\Users\\Art\\Source\\Repos\\Templ.Utilities\\Templ.Utilities\\Templ.Utilities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Art\\source\\repos\\Templ.Utilities\\Templ.Utilities.Helpers\\Templ.Utilities.csproj": {
+    "C:\\Users\\Art\\Source\\Repos\\Templ.Utilities\\Templ.Utilities\\Templ.Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Art\\source\\repos\\Templ.Utilities\\Templ.Utilities.Helpers\\Templ.Utilities.csproj",
+        "projectUniqueName": "C:\\Users\\Art\\Source\\Repos\\Templ.Utilities\\Templ.Utilities\\Templ.Utilities.csproj",
         "projectName": "Templ.Utilities",
-        "projectPath": "C:\\Users\\Art\\source\\repos\\Templ.Utilities\\Templ.Utilities.Helpers\\Templ.Utilities.csproj",
+        "projectPath": "C:\\Users\\Art\\Source\\Repos\\Templ.Utilities\\Templ.Utilities\\Templ.Utilities.csproj",
         "packagesPath": "C:\\Users\\Art\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Art\\source\\repos\\Templ.Utilities\\Templ.Utilities.Helpers\\obj\\",
+        "outputPath": "C:\\Users\\Art\\Source\\Repos\\Templ.Utilities\\Templ.Utilities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

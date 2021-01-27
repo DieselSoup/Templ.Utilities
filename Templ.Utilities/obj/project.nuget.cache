@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G8LfMncES8TT6VOoK26QJgWzQ6zDJnpOGpqXQ1B/kiGzP36bCs0b03UZVOp1LqjyyzBJ+a0rotlxvN+ZGk+GVw==",
+  "dgSpecHash": "GoUDtEg/d5kglaUeWVYstqTn0pGLWbynQUzKeREsLj2ujsH1kz+TYN3sA2VBJT/j87PKf8vo67MgB+B7SLeesg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Art\\source\\repos\\Templ.Utilities\\Templ.Utilities.Helpers\\Templ.Utilities.csproj",
+  "projectFilePath": "C:\\Users\\Art\\Source\\Repos\\Templ.Utilities\\Templ.Utilities\\Templ.Utilities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Art\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Art\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
